@@ -1,2 +1,5 @@
-# Titanic Machine Learning from Disaster
- Used machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+# Titanic - Machine Learning from Disaster Submission
+- - -
+
+[**Notebook Link:**](https://www.kaggle.com/spacemonkeyclan/titanic)
+![**Score:**](C:\Users\rene\Jupyter Notebooks\Titanic Notebook\Titanic-Machine-Learning-from-Disaster\Score.PNG)
